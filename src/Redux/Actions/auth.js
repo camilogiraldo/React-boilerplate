@@ -1,7 +1,7 @@
-import * as actionTypes from "./actionTypes";
+import * as actionTypes from './actionTypes';
 
 export const action = () => {
   return {
-      type: actionTypes.TYPE
+    type: actionTypes.TYPE
   };
 };
